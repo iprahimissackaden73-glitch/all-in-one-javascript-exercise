@@ -2,7 +2,7 @@
 
 let colors=[ "green", "blue", "yellow", "black" ,"white"]
 
-console.log(colors)
+// console.log(colors)
 
 console.log (colors[0])
 console.log (colors[1])
