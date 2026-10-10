@@ -37,3 +37,24 @@ console.log(sum(30,67))
 
 
 //  fuction expresion add wuu iga diidey sidaa awgeed waxaan isticmaaley sum
+
+
+
+// arrow function
+
+
+let addition=(a,b)=>{
+
+return a+b
+
+}
+console.log (addition(40,32))
+console.log (addition(3,10))
+console.log (addition(4,12))
+console.log (addition(90,10))
+console.log (addition(780,80))
+console.log (addition(42,90))
+console.log (addition(673,10))
+console.log (addition(4920,9))
+console.log (addition(40,1))
+console.log (addition(40,10))
