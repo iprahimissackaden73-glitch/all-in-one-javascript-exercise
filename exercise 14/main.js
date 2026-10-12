@@ -18,3 +18,7 @@ do{ password = prompt("fadlan gali password")
 
 
     console.log("wellcome")
+
+
+
+
