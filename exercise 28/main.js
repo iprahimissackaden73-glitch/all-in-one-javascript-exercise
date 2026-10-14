@@ -1,4 +1,6 @@
 
+
+
 // promise exercise 
 
 
@@ -10,7 +12,7 @@ function fetchUserdata(){
 
 setTimeout(()=>{
 
-let pass = false;
+let pass = true;
 
 if (pass){
 passed("you passed")
@@ -30,23 +32,23 @@ fail(" you fail ")
 }
 fetchUserdata()
 
-.then((data)=>{
+// .then((data)=>{
 
 
-    console.log(" you passed")
-})
-.catch((err)=>{
+//     console.log(" you passed")
+// })
+// .catch((err)=>{
 
-console.log(" you faild")
+// console.log(" you faild")
 
-})
+// })
 
 
-async function fails() {
+async function displayuserdate() {
     
 try{
     const user = await fetchUserdata()
-    console.log(user)
+    console.log( user)
 
 } catch (err){
     console.log (err)
@@ -55,6 +57,7 @@ try{
 }
 
 }
+displayuserdate()
 
 
 
