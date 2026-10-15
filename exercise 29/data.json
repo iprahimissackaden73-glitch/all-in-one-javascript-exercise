@@ -1,0 +1,20 @@
+
+
+
+{
+
+"name": "omar",
+"id": 1,
+"oder":[
+    {
+"id": "q2e", "product": "bariis", "price": 20
+
+
+}, {
+"id": "q3e", "product": "qalin", "price": "$0.3"
+
+
+}
+]
+
+}
